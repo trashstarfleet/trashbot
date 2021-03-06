@@ -1,32 +1,380 @@
-규칙
-1.MISC사의 함선에 대한 내용을 씁니다
-2.꼭 양식에 맞춰서 적어주세요
-3.#는 각주입니다 당연히 본설명에선 삭제
-4.""안에 들어가는것만 변경 당연히 본 설명 작성후엔 삭제
-5.양식하나를 끝내면 두줄 건너뛰기
-양식
-##함선이름
-"함선이름"("영어로")
-"함선설명"
-"이미지 링크" 
-"제조사 이미지 링크"#이미지 파일 참조
-"제조사이름"("제조사 영어로 풀네임")#RSI(X), CNOU(X)
-"용도"
-"개발상태"#컨셉단계, 제작중, 비행가능 총 3개로 구분함 제작중은 로드맵에 올라가면
-"전장"m/"전폭"m/"전고"m
-"무게"Kg
-"카고용량"SCU
-"속도"m/s
-"최소인원"명
-"최대인원"명
-"인게임가격"⍺UEC
-"파는곳"#로어빌, 에리어18로 구분
-"공식홈페이지 판매 링크"
-"실제가격"$#스탠다드기준
+엔데버(Endeavor)
+엔데버는 실험을 위한 함선으로 개발되었지만 다양한 분야의 작업에 적합하도록 설계된 모듈식 플랫폼을 장착한 함선입니다.
+https://starcitizen.tools/images/thumb/d/d6/Endeavor.jpg/450px-Endeavor.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+산업
+컨셉
+200m/48m/20m
+4055000kg
+500SCU
+-m/s
+3명
+5명
+-⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/misc-endeavor/Endeavor
+350$
 
 
-##모듬함선(eX: 어벤저시리즈)
-"함선 이름"시리즈
-"공통적인 설명"
-"이미지 링크"#왠만하면 다들어가게 그전 봇에 적용 돼있음
-"제조사 이미지"
+프리랜서(Freelancer)
+프리랜서는 중형 다목적 수송 함선입니다. MISC와 시안 정부의 계약 후 처음 건조된 함선입니다.
+https://starcitizen.tools/images/thumb/9/9f/Freelancer.jpg/450px-Freelancer.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+수송
+비행
+38m/23.5m/9.5m
+231696kg
+66SCU
+1005m/s
+1명
+4명
+1 697 600⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer
+110$
+
+
+프리랜서 DUR(Freelancer DUR)
+ 프리랜서 라인업 중 하나인 프리랜서 DUR은 향상된 점프 드라이브와 고급 스캐너, 대형 연료통이 탑재되어 있지만 화물 용량이 25% 감소하였습니다.
+https://starcitizen.tools/images/thumb/9/98/MISC-freelancer-dur-side-3.4.1.jpg/450px-MISC-freelancer-dur-side-3.4.1.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+탐험
+비행
+38m/23.5m/9.5m
+234718kg
+28SCU
+1005m/s
+1명
+4명
+1 967 600⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer-DUR
+135$
+
+
+프리랜서 MAX(Freelancer MAX)
+프리랜서 MAX는 화력을 감소시킨 대신 더 큰 화물 용량을 가지고 있습니다. 이 함선은 장비나 재료 운송에 적합합니다
+https://starcitizen.tools/images/thumb/6/6f/MISC-freelancer-max-side-3.4.1.jpg/450px-MISC-freelancer-max-side-3.4.1.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+수송
+비행
+38m/36m/9.5m
+360208kg
+120SCU
+1005m/s
+1명
+4명
+2 181 500⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer-MAX
+150$
+
+
+프리랜서 MIS(Freelancer MIS)
+프리랜서 MIS는 3사이즈 미사일 10개를 추가로 장착 가능한 대신 화물 용량이 적습니다.
+https://starcitizen.tools/images/thumb/1/14/Freelancer_MIS_3.4.png/450px-Freelancer_MIS_3.4.png
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+전투
+비행
+38m/23.5m/9.5m
+236353kg
+36SCU
+1005m/s
+1명
+4명
+2 537 800⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer-MIS
+175$
+
+
+헐 A(Hull A)
+헐 시리즈 중 가장 저렴한 보급형 운송 함선입니다. 
+https://starcitizen.tools/images/thumb/a/a8/HullAInFlight.jpg/450px-HullAInFlight.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+수송
+컨셉
+22m/8m/4m
+122650kg
+48SCU
+-m/s
+1명
+1명
+-⍺UEC
+-
+https://robertsspaceindustries.com/pledge/ships/hull/Hull-A
+60$
+
+
+헐 B(Hull B)
+중형 화물선입니다.
+https://starcitizen.tools/images/thumb/a/af/HullBLoaded.jpg/450px-HullBLoaded.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+수송
+컨셉
+49m/15.5m/17m
+387500kg
+384SCU
+-m/s
+1명
+1명
+-⍺UEC
+-
+https://robertsspaceindustries.com/pledge/ships/hull/Hull-B
+90$
+
+
+헐 C(Hull C)
+화물 운송과 방어의 균형을 갖춘 함선입니다. 대부분의 운송 작업에 사용 가능한 신뢰도 높은 함선입니다.
+https://starcitizen.tools/images/thumb/c/c1/Hull-C_over_moon_-_Port.jpg/450px-Hull-C_over_moon_-_Port.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+수송
+컨셉
+125m/55m/55m
+886930kg
+4608SCU
+-m/s
+2명
+4명
+-⍺UEC
+-
+https://robertsspaceindustries.com/pledge/ships/hull/Hull-C
+250$
+
+
+헐 D(Hull D)
+다양한 상업 임무에서 자주 사용되지만 큰 부피 때문에 호위함이 필요합니다.
+https://starcitizen.tools/images/thumb/8/8d/Hull_D_-_Docked_at_large_station.jpg/450px-Hull_D_-_Docked_at_large_station.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+수송
+컨셉
+209m/70m/70m
+1216000kg
+20736SCU
+-m/s
+1명
+5명
+-⍺UEC
+-
+https://robertsspaceindustries.com/pledge/ships/hull/Hull-D
+350$
+
+
+헐 E(Hull E)
+현존 최대 규모의 화물선입니다. 하지만 엄청나게 큰 덩치에 비례한 기동성은 치명적인 단점으로 반드시 호위함이 필요합니다.
+https://starcitizen.tools/images/thumb/0/06/HullEFront.jpg/450px-HullEFront.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+수송
+컨셉
+372m/104m/104m
+1652000kg
+98304SCU
+-m/s
+1명
+5명
+-⍺UEC
+-
+https://robertsspaceindustries.com/pledge/ships/hull/Hull-E
+650$
+
+
+프로스펙터(Prospector)
+1인용 채광 함선입니다. MISC의 세련된 디자인 감성과 고사용 채굴 도구를 갖춘 함선입니다.
+https://starcitizen.tools/images/thumb/d/dd/Prospector_-_Hovering_mining_on_cliffside_1.jpg/450px-Prospector_-_Hovering_mining_on_cliffside_1.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+산업
+비행
+24m/15m/7m
+137369kg
+32SCU
+1155m/s
+1명
+1명
+2 061 000⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/misc-prospector/Prospector
+155$
+
+
+레이저(Razor)
+경주용으로 개발된 함선입니다. 그 어떤 함선보다 기동성을 우선시하며 시안의 영향을 받은 독특한 추진기를 탑재하고 있습니다.
+https://starcitizen.tools/images/thumb/f/fa/Razor_flying_over_Microtech_-_Blurred_background.jpg/450px-Razor_flying_over_Microtech_-_Blurred_background.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+차량
+비행
+11.5m/8.2m/2.7m
+10925kg
+0SCU
+932m/s
+1명
+1명
+1 761 200⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/razor/Razor
+145$
+
+
+레이저 EX(Razor EX)
+스텔스 레이싱 함선입니다. 감시 등의 임무에 사용하기 위한 함선으로 개발되었습니다.
+https://starcitizen.tools/images/thumb/d/d5/Razor_EX_3.1.4_02.png/450px-Razor_EX_3.1.4_02.png
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+차량
+비행
+11.5m/8.2m/2.7m
+10925kg
+0SCU
+1345m/s
+1명
+1명
+1 878 800⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/razor/Razor-EX
+155$
+
+
+레이저 LX(Razor LX)
+한계에 가까운 기동성을 보유한 함선입니다. 엔진 오버클럭시 그 누구도 따라올 수 없습니다.
+https://starcitizen.tools/images/thumb/e/ef/3-LX-City-Flight-Squashed.jpg/450px-3-LX-City-Flight-Squashed.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+차량
+비행
+11.5m/8.2m/2.7m
+10925kg
+0SCU
+1346m/s
+1명
+1명
+1 823 800⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/razor/Razor-LX
+150$
+
+
+릴라이언트 코레(Reliant Kore)
+다목적 화물선으로 설계되었으면 같은 시리즈의 함선 보다 큰 화물칸을 가지고 있습니다.
+https://starcitizen.tools/images/thumb/b/ba/Reliant_Kore_Landing_in_New_Babbage_Alpha_3.9.jpg/450px-Reliant_Kore_Landing_in_New_Babbage_Alpha_3.9.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+다목적
+비행
+14.5m/28.5m/4m
+38566kg
+6SCU
+1151m/s
+1명
+2명
+744 700⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/reliant/Reliant-Kore
+65$
+
+
+릴라이언트 마코(Reliant Mako)
+촬영용 함선으로 함선 외부에 첨단 이미지 센서를 갖춘 카메라가 탑재되어 있습니다.
+https://starcitizen.tools/images/thumb/4/4c/Misc-reliant-mako-3.5-front-overhead.jpg/450px-Misc-reliant-mako-3.5-front-overhead.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+수송
+비행
+14.5m/28.5m/4m
+39535kg
+0SCU
+1150m/s
+1명
+2명
+780 000⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/reliant/Reliant-Mako
+95$
+
+
+릴라이언트 센(Reliant Sen)
+경량 과학 지원 함선입니다.
+https://starcitizen.tools/images/thumb/2/2f/Reliant_Sen_Formation_Alpha_3.9.jpg/450px-Reliant_Sen_Formation_Alpha_3.9.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+산업
+비행
+14.5m/28.5m/4m
+39535kg
+2SCU
+1150m/s
+1명
+2명
+840 000⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/reliant/Reliant-Sen
+85$
+
+
+릴라이언트 타나(Reliant Tana)
+다목적 전투기입니다. 유지관리가 쉬우며 강력한 무기와 장갑을 탑재하고 있어 국경 방어와 기지 방어에 이상적인 함선입니다.
+https://starcitizen.tools/images/thumb/b/b7/Reliant_Tana_Formation_Alpha_3.9.jpg/450px-Reliant_Tana_Formation_Alpha_3.9.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+전투
+비행
+14.5m/28.5m/4m
+39168kg
+1SCU
+1150m/s
+1명
+2명
+870 000⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/reliant/Reliant-Tana
+75$
+
+
+스타페어러(Starfarer)
+수소 연료를 수집하여 비행 중인 다른 함선에게 연료를 보급할 수 있는 급유 지원 함선입니다.  급유를 위한 도킹 시스템을 갖추고 있습니다.
+https://starcitizen.tools/images/thumb/f/fc/Starfarer_-_Flying_over_Lorville_with_traffic.jpg/450px-Starfarer_-_Flying_over_Lorville_with_traffic.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+지원
+비행
+101m/46.5m/23.5m
+3555606kg
+291SCU
+888m/s
+1명
+7명
+6 651 500⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/misc-starfarer/Starfarer
+300$
+
+
+스타페어러 제미니(Starfarer Gemini)
+스타페어러의 군용 버전입니다. 작전 중 연료 보급을 지원하며 미사일이 탑재되어 있습니다.
+https://starcitizen.tools/images/thumb/a/af/Starfarer_Gemini_-_Flying_with_blue_sky_and_clouds.jpg/450px-Starfarer_Gemini_-_Flying_with_blue_sky_and_clouds.jpg
+https://starcitizen.tools/images/c/c5/MISC.svg
+무사시 인더스트리얼 & 스타플라이트 컨선(Musashi Industrial and Starflight Concern)
+지원
+비행
+101m/46.5m/23.5m
+3583690kg
+291SCU
+889m/s
+1명
+6명
+6 191 500⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/misc-starfarer/Starfarer-Gemini
+340$
+
+
