@@ -34,12 +34,11 @@
 
 ##버케니어
 "버케니어"("Buccaneer")
-"빠른기동, 고화력의 장점을 지닌 소형 전투 함선으로 매우 민첩하며 이지스 세이버(sabre)와 버금가는 화력을 지녔지만 낮은 방어력과 비상탈출(eject)이 불가능한 단점이 있습니다."
+"빠른기동, 고화력의 장점을 지닌 소형 전투 함선으로 매우 민첩하며 이지스 세이버(sabre) 전투함선에 버금가는 화력을 지녔지만 낮은 방어력과 비상탈출(eject)이 불가능한 단점이 있습니다."
 "https://starcitizen.tools/images/thumb/a/ac/Buccaneer_-_3.10_-_Flying_over_Microtech.jpg/900px-Buccaneer_-_3.10_-_Flying_over_Microtech.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"#이미지 파일 참조
-"드레이크"("Drake Interplanetary")#RSI(X), CNOU(X)
-"전투기"
-"비행가능"#컨셉단계, 제작중, 비행가능 총 3개로 구분함 제작중은 로드맵에 올라가면
+"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
+"드레이크"("Drake Interplanetary")
+"비행가능"
 "15"m/"16"m/"4"m
 "40,821"Kg
 "-"SCU
@@ -47,19 +46,19 @@
 "1"명
 "1"명
 "1,410,100"⍺UEC
-"로어빌"#로어빌, 에리어18로 구분
+"로어빌"
 "https://robertsspaceindustries.com/pledge/ships/drake-buccaneer/Buccaneer"
-"110"$#스탠다드기준
+"110"$
 
 
 ##함선이름
 "헤럴드"("Herald")
-"헤럴드는 미들급 데이터(DATA)운송 특화 함선입니다. 강력한 메인 엔진을 기반으로 미들사이즈 함선임에도 A to B 지점까지 빠르게 데이터 운송할 수 있으며, 탑재된 고급 데이터(DATA)암호화 기술과 컴퓨터로 해킹을 차단 할 수 있습니다."
+"헤럴드는 미들급 데이터(DATA)운송 특화 함선입니다. 강력한 메인 엔진을 기반으로 미들사이즈 함선임에도 A to B 지점까지 빠르게 데이터 수송할 수 있으며, 탑재된 고급 데이터(DATA)암호화 기술과 컴퓨터로 해킹을 차단 할 수 있습니다."
 "https://starcitizen.tools/images/thumb/3/3e/Herald_landed_on_microTech_3.9.png/450px-Herald_landed_on_microTech_3.9.png" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"#이미지 파일 참조
-"드레이크"("Drake Interplanetary")#RSI(X), CNOU(X)
-"데이터 운송"
-"비행가능"#컨셉단계, 제작중, 비행가능 총 3개로 구분함 제작중은 로드맵에 올라가면
+"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
+"드레이크"("Drake Interplanetary")
+"데이터 수송"
+"비행가능"
 "24"m/"12"m/"19"m
 "66,031"Kg
 "-"SCU
@@ -67,19 +66,19 @@
 "1"명
 "1"명
 "1,181,100"⍺UEC
-"로어빌"#로어빌, 에리어18로 구분
+"로어빌"
 "https://robertsspaceindustries.com/pledge/ships/herald/Herald"
-"85"$#스탠다드기준
+"85"$
 
 
 ##함선이름
 "캐터필러"("Caterpillar")
 "현재까진 카고(cargo)모듈만 사용가능하며 576scu의 큰 적재용량으로 무역용 함선으로 주로 사용합니다. 본래 캐터필러의 컨셉은 다목적 모듈식 함선으로 거주, 카고, 의료 등의 모듈이 있습니다."
 "https://starcitizen.tools/Caterpillar#/media/File:Caterpillar_firing_guns_-_Front_Port.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"#이미지 파일 참조
-"드레이크"("Drake Interplanetary")#RSI(X), CNOU(X)
-"다목적 모듈함선(화물/거주/의료)"
-"비행가능"#컨셉단계, 제작중, 비행가능 총 3개로 구분함 제작중은 로드맵에 올라가면
+"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
+"드레이크"("Drake Interplanetary")
+"다목적 모듈함선(화물수송/거주/의료)"
+"비행가능"
 "112"m/"39"m/"14"m
 "1,608,205"Kg
 "576"SCU
@@ -87,19 +86,19 @@
 "2"명
 "4"명
 "4,486,600"⍺UEC
-"로어빌"#로어빌, 에리어18로 구분
+"로어빌"
 "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar"
-"295"$#스탠다드기준
+"295"$
 
 
 ##함선이름
 "크라켄 프라이바티어"("Kraken Privateer")
 "크라켄 프라이바티어(사략선)는 드레이크사 크라켄의 변형모델이며, 기본형과의 차이는 함선내부에 마켓(market)을 운영 할 수 있으며, 숙소(habitation)를 제공할 수 있습니다."
 "https://starcitizen.tools/images/thumb/9/99/Privateer_-_Landed_Rear_Port.jpg/900px-Privateer_-_Landed_Rear_Port.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"#이미지 파일 참조
-"드레이크"("Drake Interplanetary")#RSI(X), CNOU(X)
+"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
+"드레이크"("Drake Interplanetary")
 "경항모"
-"컨셉단계"#컨셉단계, 제작중, 비행가능 총 3개로 구분함 제작중은 로드맵에 올라가면
+"컨셉단계"
 "270"m/"104"m/"64"m
 "-"Kg
 "768"SCU
@@ -107,19 +106,19 @@
 "1"명
 "10"명
 "-"⍺UEC
-"-"#로어빌, 에리어18로 구분
+"-"
 "https://robertsspaceindustries.com/pledge/ships/drake-kraken/Kraken-Privateer"
-"1,650"$#스탠다드기준
+"1,650"$
 
 
 ##함선이름
 "크라켄"("Kraken")
 "커세어는 라지급 탐사선입니다. 방어에 초점을 둔 무장이 탑재되어 있으며, 대형 화물공간을 지원하며 비대칭 날개가 특징이며 2개의 퀀텀연료탱크로 더 멀리 퀀텀 이동이 가능합니다."
 "https://starcitizen.tools/images/thumb/0/03/Kraken_AboveShipMisty_Concept.jpg/900px-Kraken_AboveShipMisty_Concept.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"#이미지 파일 참조
-"드레이크"("Drake Interplanetary")#RSI(X), CNOU(X)
+"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
+"드레이크"("Drake Interplanetary")
 "경항모"
-"컨셉단계"#컨셉단계, 제작중, 비행가능 총 3개로 구분함 제작중은 로드맵에 올라가면
+"컨셉단계"
 "270"m/"104"m/"64"m
 "-"Kg
 "3,792"SCU
@@ -127,19 +126,19 @@
 "1"명
 "10"명
 "-"⍺UEC
-"-"#로어빌, 에리어18로 구분
+"-"
 "https://robertsspaceindustries.com/pledge/ships/drake-kraken/Kraken"
-"1,650"$#스탠다드기준
+"1,650"$
 
 
 ##함선이름
 "커세어"("Corsair")
 "커세어는 라지급 탐사선입니다. 방어에 초점을 둔 무장이 탑재되어 있고 대형 화물공간을 지원하며 비대칭 날개가 특징입니다. 2개의 퀀텀 연료탱크가 탑재되어 더 멀리 퀀텀 이동이 가능합니다."
 "https://starcitizen.tools/images/thumb/d/dd/DRAK_Corsair_promo_shot05.jpg/900px-DRAK_Corsair_promo_shot05.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"#이미지 파일 참조
-"드레이크"("Drake Interplanetary")#RSI(X), CNOU(X)
+"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
+"드레이크"("Drake Interplanetary")
 "탐사선"
-"컨셉단계"#컨셉단계, 제작중, 비행가능 총 3개로 구분함 제작중은 로드맵에 올라가면
+"컨셉단계"
 "55"m/"27"m/"31"m
 "-"Kg
 "72"SCU
@@ -147,6 +146,46 @@
 "1"명
 "4"명
 "-"⍺UEC
-"-"#로어빌, 에리어18로 구분
-"https://robertsspaceindustries.com/pledge/ships/drake-kraken/Kraken"
-"215"$#스탠다드기준
+"-"
+"https://robertsspaceindustries.com/pledge/ships/drake-corsair/Corsair"
+"215"$
+
+
+##함선이름
+"벌처"("Vulture")
+"벌처는 1인승 Salvage(구조/인양)함선입니다. 적당한 카고(cargo)를 제공하며, 작은 함선크기로 은밀한 작업도 가능합니다."
+"https://starcitizen.tools/images/thumb/e/e0/Vulture_Flying_Concept.jpg/900px-Vulture_Flying_Concept.jpg" 
+"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
+"드레이크"("Drake Interplanetary")
+"구조/인양"
+"컨셉단계"
+"33"m/"16"m/"9"m
+"114,591"Kg
+"12"SCU
+"-""m/s
+"1"명
+"1"명
+"-"⍺UEC
+"-"
+"https://robertsspaceindustries.com/pledge/ships/drake-vulture/Vulture"
+"140"$
+
+
+##함선이름
+"커틀라스블랙"("Cutlass-Black")
+"벌처는 1인승 Salvage(구조/인양)함선입니다. 적당한 카고(cargo)를 제공하며, 작은 함선크기로 은밀한 작업도 가능합니다."
+"https://starcitizen.tools/images/thumb/e/e0/Vulture_Flying_Concept.jpg/900px-Vulture_Flying_Concept.jpg" 
+"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
+"드레이크"("Drake Interplanetary")
+"구조/인양"
+"컨셉단계"
+"33"m/"16"m/"9"m
+"114,591"Kg
+"12"SCU
+"-""m/s
+"1"명
+"1"명
+"-"⍺UEC
+"-"
+"https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Black"
+"140"$
