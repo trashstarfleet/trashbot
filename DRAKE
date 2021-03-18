@@ -38,10 +38,11 @@
 https://starcitizen.tools/images/thumb/a/ac/Buccaneer_-_3.10_-_Flying_over_Microtech.jpg/900px-Buccaneer_-_3.10_-_Flying_over_Microtech.jpg
 https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
 드레이크(Drake Interplanetary)
+
 비행가능
 15m/16m/4m
 40,821Kg
--SCU
+0SCU
 1,315m/s
 1명
 1명
@@ -61,7 +62,7 @@ https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
 비행가능
 24m/12m/19m
 66,031Kg
-0 SCU
+0SCU
 1,360m/s
 1명
 1명
@@ -78,114 +79,154 @@ https://starcitizen.tools/Caterpillar#/media/File:Caterpillar_firing_guns_-_Fron
 https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
 드레이크(Drake Interplanetary)
 운송
-"비행가능"
-"112"m/"39"m/"14"m
-"1,608,205"Kg
-"576"SCU
-"890"m/s
-"2"명
-"4"명
-"4,486,600"⍺UEC
-"로어빌"
-"https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar"
-"295"$
+비행가능
+112m/39m/14m
+1,608,205Kg
+576SCU
+890m/s
+2명
+4명
+4,486,600⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar
+295$
 
 
-##함선이름
-"크라켄 프라이바티어"("Kraken Privateer")
-"크라켄 프라이바티어(사략선)는 드레이크사 크라켄의 변형모델이며, 기본형과의 차이는 함선내부에 마켓(market)을 운영 할 수 있으며, 숙소(habitation)를 제공할 수 있습니다."
-"https://starcitizen.tools/images/thumb/9/99/Privateer_-_Landed_Rear_Port.jpg/900px-Privateer_-_Landed_Rear_Port.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
-"드레이크"("Drake Interplanetary")
-"경항모"
-"컨셉단계"
-"270"m/"104"m/"64"m
-"-"Kg
-"768"SCU
-"-""m/s
-"1"명
-"10"명
-"-"⍺UEC
-"-"
-"https://robertsspaceindustries.com/pledge/ships/drake-kraken/Kraken-Privateer"
-"1,650"$
+##크라켄 프라이바티어
+크라켄 프라이바티어(Kraken Privateer)
+크라켄 프라이바티어(사략선)는 드레이크사 크라켄의 변형모델이며, 기본형과의 차이는 함선내부에 마켓(market)을 운영 할 수 있으며, 숙소(habitation)를 제공할 수 있습니다.
+https://starcitizen.tools/images/thumb/9/99/Privateer_-_Landed_Rear_Port.jpg/900px-Privateer_-_Landed_Rear_Port.jpg
+https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
+드레이크(Drake Interplanetary)
+경항모
+컨셉단계
+270m/104m/64m
+-Kg
+768SCU
+-m/s
+1명
+10명
+-⍺UEC
+-
+https://robertsspaceindustries.com/pledge/ships/drake-kraken/Kraken-Privateer
+1,650$
 
 
-##함선이름
-"크라켄"("Kraken")
-"커세어는 라지급 탐사선입니다. 방어에 초점을 둔 무장이 탑재되어 있으며, 대형 화물공간을 지원하며 비대칭 날개가 특징이며 2개의 퀀텀연료탱크로 더 멀리 퀀텀 이동이 가능합니다."
-"https://starcitizen.tools/images/thumb/0/03/Kraken_AboveShipMisty_Concept.jpg/900px-Kraken_AboveShipMisty_Concept.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
-"드레이크"("Drake Interplanetary")
-"경항모"
-"컨셉단계"
-"270"m/"104"m/"64"m
-"-"Kg
-"3,792"SCU
-"-""m/s
-"1"명
-"10"명
-"-"⍺UEC
-"-"
-"https://robertsspaceindustries.com/pledge/ships/drake-kraken/Kraken"
-"1,650"$
+##크라켄
+크라켄(Kraken)
+크라켄은 드레이크사에서 심혈을 기울여 개발중인 다목적 경항모입니다. 어떠한 함선도 상대할 수 있는 충분한 무장과 초대형 카고(cargo) 그리고 승무원을 위한 안락한 숙소를 제공합니다. 
+https://starcitizen.tools/images/thumb/0/03/Kraken_AboveShipMisty_Concept.jpg/900px-Kraken_AboveShipMisty_Concept.jpg
+https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
+드레이크(Drake Interplanetary)
+경항모
+컨셉단계
+270m/104m/64m
+-Kg
+3,792SCU
+-m/s
+1명
+10명
+-⍺UEC
+-
+https://robertsspaceindustries.com/pledge/ships/drake-kraken/Kraken
+1,650$
 
 
-##함선이름
-"커세어"("Corsair")
-"커세어는 라지급 탐사선입니다. 방어에 초점을 둔 무장이 탑재되어 있고 대형 화물공간을 지원하며 비대칭 날개가 특징입니다. 2개의 퀀텀 연료탱크가 탑재되어 더 멀리 퀀텀 이동이 가능합니다."
-"https://starcitizen.tools/images/thumb/d/dd/DRAK_Corsair_promo_shot05.jpg/900px-DRAK_Corsair_promo_shot05.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
-"드레이크"("Drake Interplanetary")
-"탐사선"
-"컨셉단계"
-"55"m/"27"m/"31"m
-"-"Kg
-"72"SCU
-"-""m/s
-"1"명
-"4"명
-"-"⍺UEC
-"-"
-"https://robertsspaceindustries.com/pledge/ships/drake-corsair/Corsair"
-"215"$
+##커세어
+커세어(Corsair)
+커세어는 라지급 탐사선입니다. 방어에 초점을 둔 무장이 탑재되어 있고 대형 화물공간을 지원하며 비대칭 날개가 특징입니다. 2개의 퀀텀 연료탱크가 탑재되어 더 멀리 퀀텀 이동이 가능합니다.
+https://starcitizen.tools/images/thumb/d/dd/DRAK_Corsair_promo_shot05.jpg/900px-DRAK_Corsair_promo_shot05.jpg
+https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
+드레이크(Drake Interplanetary)
+탐사
+컨셉단계
+55m/27m/31m
+-Kg
+72SCU
+-m/s
+1명
+4명
+-⍺UEC
+-
+https://robertsspaceindustries.com/pledge/ships/drake-corsair/Corsair
+215$
 
 
-##함선이름
-"벌처"("Vulture")
-"벌처는 1인승 Salvage(구조/인양)함선입니다. 적당한 카고(cargo)를 제공하며, 작은 함선크기로 은밀한 작업도 가능합니다."
-"https://starcitizen.tools/images/thumb/e/e0/Vulture_Flying_Concept.jpg/900px-Vulture_Flying_Concept.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
-"드레이크"("Drake Interplanetary")
-"구조/인양"
-"컨셉단계"
-"33"m/"16"m/"9"m
-"114,591"Kg
-"12"SCU
-"-""m/s
-"1"명
-"1"명
-"-"⍺UEC
-"-"
-"https://robertsspaceindustries.com/pledge/ships/drake-vulture/Vulture"
-"140"$
+##벌처
+벌처(Vulture)
+벌처는 1인승 소형 Salvage(구조/인양)함선입니다. 적당한 카고(cargo)를 제공하며, 작은 함선크기로 은밀한 작업도 가능합니다.
+https://starcitizen.tools/images/thumb/e/e0/Vulture_Flying_Concept.jpg/900px-Vulture_Flying_Concept.jpg
+https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
+드레이크(Drake Interplanetary)
+구조/인양
+컨셉단계
+33m/16m/9m
+114,591Kg
+12SCU
+-m/s
+1명
+1명
+-⍺UEC
+-
+https://robertsspaceindustries.com/pledge/ships/drake-vulture/Vulture
+140$
 
 
-##함선이름
-"커틀라스블랙"("Cutlass-Black")
-"벌처는 1인승 Salvage(구조/인양)함선입니다. 적당한 카고(cargo)를 제공하며, 작은 함선크기로 은밀한 작업도 가능합니다."
-"https://starcitizen.tools/images/thumb/e/e0/Vulture_Flying_Concept.jpg/900px-Vulture_Flying_Concept.jpg" 
-"https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg"
-"드레이크"("Drake Interplanetary")
-"구조/인양"
-"컨셉단계"
-"33"m/"16"m/"9"m
-"114,591"Kg
-"12"SCU
-"-""m/s
-"1"명
-"1"명
-"-"⍺UEC
-"-"
-"https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Black"
-"140"$
+##커틀라스 블랙
+커틀라스 블랙(Cutlass Black)
+가성비 좋은 중형급 다목적 함선입니다. 충분한 무장, 평균보다 큰 카고(cargo)를 제공하며 VTOL(수직이착륙)기능으로 보다 민첩한 조종이 가능합니다.
+https://starcitizen.tools/images/thumb/e/e0/Vulture_Flying_Concept.jpg/900px-Vulture_Flying_Concept.jpg
+https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
+드레이크("Drake Interplanetary)
+전투/화물
+비행가능
+29m/26.5m/10m
+246,557Kg
+46SCU
+1,115m/s
+1명
+2명
+1,385,300⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Black
+100$
+
+
+##드래곤플라이
+드래곤플라이(Dragonfly)
+드래곤플라이는 2인승 호버(Hover) 컴뱃 바이크로 육상 및 우주공간에서도 사용 가능합니다. 노란칼라의 옐로우자켓 버전도 있습니다.
+https://starcitizen.tools/images/thumb/e/e0/Vulture_Flying_Concept.jpg/900px-Vulture_Flying_Concept.jpg
+https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
+드레이크("Drake Interplanetary)
+바이크
+비행가능
+6m/2.5m/1.5m
+2,169Kg
+0SCU
+1,100m/s
+1명
+2명
+272,700⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/drake-dragonfly/Dragonfly-Black
+40$
+
+
+##커틀라스 레드
+커틀라스 레드(Cutlass Red)
+커틀러스 레드는 커틀러스 시리즈의 의료 버전입니다. 2개의 메디컬-베이(Medical-bay)를 제공하며, 고급 레이더가 탑재되어 수색업무에도 탁월한 성능을 보여줍니다. 현재는 메디컬베이에서 
+https://starcitizen.tools/images/thumb/e/e0/Vulture_Flying_Concept.jpg/900px-Vulture_Flying_Concept.jpg
+https://starcitizen.tools/images/2/2a/DrakeInterplanetary.svg
+드레이크("Drake Interplanetary)
+의료/수색
+비행가능
+29m/26.5m/10m
+246,557Kg
+46SCU
+1,115m/s
+1명
+2명
+1,385,300⍺UEC
+로어빌
+https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Black
+100$
