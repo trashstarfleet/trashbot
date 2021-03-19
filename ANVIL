@@ -34,7 +34,7 @@
 
 ##애로우
 애로우 (Arrow)
-앤빌 경전투기의 미래를 만나보십시오! 항공 역학적으로 뛰어나고 눈에 잘 띄지 않는 선체, 그리고 현존하는 최고의 전방향 추진기가 장착되어 있습니다. 쿼드 미사일 랙과 함께 관대한 무장폭은 어떤 상황에서도 지속적인 비행을 가능하게 해줄 것입니다. 애로우는 당신을 방해하는 것이 무엇이든 상대를 당황하게 할 정도로 빠르게 그곳을 벗어날 수 있습니다. 상식적으로 그들이 어떻게 당신을 죽이겠습니까? 잡을 수조차 없을텐데 말이죠.
+앤빌 경전투기의 미래를 만나보세요! 항공 역학적으로 뛰어난 것은 물론, 눈에 잘 띄지 않는 선체 구조와 현존하는 최고의 전방향 추진기가 장착된 것이 특징인 함선입니다. 4개의 미사일 랙과 함께 관대한 무장은 어떤 상황에서도 지속적인 비행을 가능케 해줄 것입니다. 애로우는 당신을 방해하는 것이 무엇이든 상대를 당황하게 할 정도로 신속하게 그곳을 벗어날 수 있습니다. 상식적으로 그들이 어떻게 당신을 물리치겠습니까? 따라올 수조차 없을텐데 말이죠.
 https://starcitizen.tools/images/thumb/4/47/Arrow_over_Celiin_3.9.1.png/450px-Arrow_over_Celiin_3.9.1.png
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
@@ -42,45 +42,45 @@ https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_P
 비행가능
 16m/12m/4m
 30,752Kg
--
+0SCU
 1,235m/s
 1명
 1명
 972,300⍺UEC
 에어리어18
-https://robertsspaceindustries.com/pledge/ships/anvil-arrow/Arrow
+https://robertsspaceindustries.com/pledge/ships/anvil-arrow/Arrow#buying-options
 $75
 
 
 ##발리스타
 발리스타 (Ballista)
-발리스타는 대인 무기와 지대공 어뢰를 장착한 차륜 대공 장갑차입니다. 회전식 포탑에 한 쌍의 개틀링 건과 함께 5사이즈 미사일 8개와 7사이즈 어뢰 2개가 탑재된 발리스타는 모든 공중 공격을 막을 수 있는 전용 대공 차량입니다.
+발리스타는 대인 무기와 지대공 어뢰를 장착한 차륜 대공 장갑차입니다. 회전식 포탑에 한 쌍의 개틀링 건과 함께 S5 미사일 8기와 S7 어뢰 2기가 탑재된 발리스타는 모든 공중 공격에 대응할 수 있습니다.
 https://starcitizen.tools/images/thumb/9/9a/Ballista_Concept_InHangar.jpg/450px-Ballista_Concept_InHangar.jpg
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
-지상차량
+지상
 운용가능
 16m/7m/5.5m
 96,816Kg
--
+0SCU
 33m/s
 1명
 2명
 364,500⍺UEC
-에어리어18
-https://robertsspaceindustries.com/pledge/ships/anvil-ballista/Anvil-Ballista
+에어리어18/로어빌
+https://robertsspaceindustries.com/pledge/ships/anvil-ballista/Anvil-Ballista#buying-options
 $140
 
 
-##파이시스
+##C8 파이시스
 C8 파이시스 (C8 Pisces)
-캐럭을 위해 특별히 설계된 이 기생 함선은 멋진 탐험가들을 위해 정찰 및 착륙, 그리고 지원함의 역할을 할 수 있습니다. 작은 크기에도 불구하고 파이시스는 퀀텀 드라이브와 동급 최고의 쉴드, 점프 모듈을 장착하여 임무 수행 능력이 뛰어납니다.
+캐럭을 위해 맞춤 설계된 C8 파이시스는 멋진 탐험가들을 위해 정찰 및 착륙, 그리고 지원함의 역할을 수행합니다. 작은 크기임에도 불구하고 C8 파이시스는 퀀텀 드라이브와 동급 최고의 쉴드, 점프 모듈을 장착하여 뛰어난 임무 수행 능력을 자랑합니다.
 https://starcitizen.tools/images/thumb/a/a8/EXT_Pisces_Cave_112019-Min.jpg/450px-EXT_Pisces_Cave_112019-Min.jpg
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
 탐사
 비행가능
-12m/10m/3m
+13m/10.3m/3.35m
 48,143Kg
 4SCU
 1,150m/s
@@ -88,19 +88,19 @@ https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_P
 3명
 -
 -
--
+https://robertsspaceindustries.com/pledge/ships/anvil-pisces/C8-Pisces#buying-options
 -
 
 
-##파이시스 익스페디션
+##C8X 파이시스 익스페디션
 C8X 파이시스 익스페디션 (C8X Pisces Expedition)
-파이시스 기본형에 추가 화력을 장착한 소형 탐사선입니다. 항성계 간 이동 또는 대형 선박이 접근할 수 없을 정도로 밀도 높은 지점을 조사하는 데 이상적인 이 함선은 위대한 모험을 하기 위한 준비가 되어 있습니다.
+C8 파이시스에 추가 화력을 장착한 소형 탐사선입니다. 항성계 간 이동과 대형 선박이 접근할 수 없는 고밀도 지점을 조사하는 것에 특화된 C8X 파이시스 익스페디션은 위대한 모험을 하기 위한 준비가 되어 있습니다.
 https://starcitizen.tools/images/thumb/5/58/Pisces-iae-reveal.jpg/450px-Pisces-iae-reveal.jpg
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
 탐사
 비행가능
-12m/10m/3m
+13m/10.3m/3.35m
 48,143Kg
 4SCU
 1,150m/s
@@ -108,33 +108,33 @@ https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_P
 3명
 406,000⍺UEC
 에어리어18
-https://robertsspaceindustries.com/pledge/ships/anvil-pisces/C8X-Pisces-Expedition
+https://robertsspaceindustries.com/pledge/ships/anvil-pisces/C8X-Pisces-Expedition#buying-options
 $45
 
 
 ##캐럭
 캐럭 (Carrack)
-캐럭은 장거리 비행을 위한 강화 연료 탱크, 고급 점프 드라이브 및 점프 차트 작업을 위한 전용 컴퓨터 코어를 갖추고 있습니다. 또한 선내 시설에는 승무원을 위한 의료 및 수리 시설과 매핑 지향 센서가 포함되어 있습니다. 원래 군사 전용이었던 캐럭은 이제 민간인도 사용할 수 있습니다.
-https://starcitizen.tools/images/thumb/9/92/Carrack_over_microTech_3.8.png/480px-Carrack_over_microTech_3.8.png
+캐럭은 장거리 비행을 위한 강화 연료 탱크, 고급 점프 드라이브 및 점프 차트 작업을 위한 전용 컴퓨터 코어를 갖추고 있습니다. 또한 선내 시설에는 승무원을 위한 의료 및 수리 시설과 매핑 지향 센서가 포함되어 있습니다. 고강도의 차체 장갑으로 무장된 캐럭은 은하계에서 가장 안전한 탐사선 중 하나입니다. 과거에 캐럭은 군대 독점으로만 사용되었으나 현재는 민간용으로 사용할 수 있습니다.
+https://starcitizen.tools/images/thumb/9/92/Carrack_over_microTech_3.8.png/450px-Carrack_over_microTech_3.8.png
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
 탐사
 비행가능
-124m/64m/30m
+126.5m/76.5m/30m
 4,397,858Kg
 456SCU
 1,236m/s
 4명
 6명
 26,657,500⍺UEC
-로어빌
-https://robertsspaceindustries.com/pledge/ships/carrack/Carrack
+에어리어18
+https://robertsspaceindustries.com/pledge/ships/carrack/Carrack#buying-options
 $600
 
 
 ##크루시블
 크루시블 (Crucible)
-날아다니는 맥가이버, 이보다 더 크루시블을 잘 설명할 수 있을까요? 엔빌의 첫 번째 정비함을 소개합니다. 회전 가능한 함교와 다재다능한 가압식 이동 정비소는 분리가 가능하고 정비용 로봇팔, 드론 운용 센터, 그리고 전투함이 다시 전장으로 복귀할 수 있게 해주는 모든 것들을 갖추고 있습니다!
+날아다니는 맥가이버, 이보다 더 크루시블을 잘 설명할 수 있을까요? 엔빌의 첫 번째 정비함을 소개합니다. 회전 가능한 함교와 분리가 가능하며 다재다능한 가압식 이동 정비소, 정비용 로봇팔, 드론 운용 센터 등을 갖추고 있습니다. 크루시블은 전투기가 다시 전장으로 복귀할 수 있도록 거의 모든 것을 갖추고 있습니다!
 https://starcitizen.tools/images/thumb/4/40/Crucible_Repairs.jpg/450px-Crucible_Repairs.jpg
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
@@ -143,151 +143,294 @@ https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_P
 90m/50m/20m
 3,650,500Kg
 230SCU
-0m/s
+-m/s
 3명
 8명
 -
 -
-https://robertsspaceindustries.com/pledge/ships/crucible/Crucible
+https://robertsspaceindustries.com/pledge/ships/crucible/Crucible#buying-options
 $350
 
 
-##군용호넷
+##F7A 호넷
 F7A 호넷 (F7A Hornet)
-F7A는 UEE 해군의 가장 뛰어난 항모 기반 전투기입니다. 최전선 작전 전용 함선으로써 장거리 작전에는 적합하지 않지만, 일관되게 강력한 모습을 보여줄 것입니다.
+F7A 호넷은 UEE 해군의 주력 함재기로써, 최전방에서 전투 임무를 수행하기 위한 공격기입니다. 장거리 임무에는 적합하지 않지만 그 외에는 항상 뛰어난 모습을 보여주며 어떤 상황에서도 강력한 화력을 보여줍니다.
 https://starcitizen.tools/images/thumb/0/05/F7AHornetLanded.jpg/450px-F7AHornetLanded.jpg
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
 전투
 컨셉단계
-22m/22m/7m
-73,317Kg
--
-0m/s
+22.5m/22m/7m
+73,317kg
+0SCU
+-m/s
 1명
 1명
 -
 -
-https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7A-Hornet
-$200
+https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7A-Hornet#buying-options
+-
+
+
+##F7C 호넷
+F7C 호넷 (F7C Hornet) 
+F7C 호넷은 UEE 해군의 간판이 될 정도로 신뢰도가 높으며 튼튼한 장갑을 갖춘 다목적 전투기인 F7A 호넷의 민수용 버전입니다. F7C 호넷은 당신이 원하는 요구 사항을 충족할 수 있도록 당신의 탄탄한 기반이 되어줄 것입니다.
+https://starcitizen.tools/images/thumb/b/b6/F7C_-_Landed_in_Area18_hangar_-_Front_Port.jpg/450px-F7C_-_Landed_in_Area18_hangar_-_Front_Port.jpg
+https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
+앤빌 에어로스페이스 (Anvil Aerospace)
+전투
+비행가능
+22.5m/21.5m/6.5m
+73,535Kg
+0SCU
+1,224m/s
+1명
+1명
+1,492,700⍺UEC
+에어리어18
+https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-Hornet#buying-options
+$110
+
+
+##F7C 호넷 와일드파이어
+F7C 호넷 와일드파이어 (F7C Hornet Wildfire)
+F7C 호넷 와일드파이어는 플라이트 시뮬레이터인 Arena Commander와 함께 Masters of Flight 시리즈의 일부로 제작된 함선입니다. 일반적인 호넷 시리즈와는 차별화된 도색이 특징이며, Squadron 42에서 유명한 전설의 조종사 Aria Reilly를 기리기 위하여 제작되었습니다.
+https://robertsspaceindustries.com/media/0ioeh7g90gnqsr/store_slideshow_large/Wildfire_render1.jpg
+https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
+앤빌 에어로스페이스 (Anvil Aerospace)
+전투
+비행가능
+22.5m/21.5m/6.5m
+73,535kg
+0SCU
+1,224m/s
+1명
+1명
+-
+-
+https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-Hornet-Wildfire#buying-options
+$175
+
+
+##F7C-M 슈퍼호넷
+F7C-M 슈퍼호넷 (F7C-M Super Hornet)
+F7C-M 슈퍼호넷은 민간용 호넷 중 군용 호넷과 가장 유사한 무장을 갖추고 있습니다. 화물 공간에는 군용 호넷처럼 볼터렛이 장착되어 있으며 후드 하부에는 군용 등급의 부품이 장착됩니다. 또한, 슈퍼호넷에는 부조종사가 탑승할 수 있는 시트가 존재하여 두 명의 파일럿이 함께 전투에 임할 수 있습니다.
+https://starcitizen.tools/images/thumb/d/d6/Super_Hornet_over_Cellin_3.9.1.png/450px-Super_Hornet_over_Cellin_3.9.1.png
+https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
+앤빌 에어로스페이스 (Anvil Aerospace)
+전투
+비행가능
+25.5m/24m/6.5m
+78,466Kg
+0SCU
+1,222m/s
+1명
+2명
+1,954,500⍺UEC
+에어리어18
+https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-M-Super-Hornet#buying-options
+$180
+
+
+##F7C-M 슈퍼호넷 하트시커
+F7C-M 슈퍼호넷 하트시커 (F7C-M Super Hornet Heartseeker)
+F7C-M 슈퍼호넷 하트시커는 위험한 공중전에서 심장이 요동치는 스릴을 느끼고 싶어하는 파일럿을 위하여 설계되었습니다. 이 전투기는 한정판으로 제작되는 전투기로써, 조종석 측면에 독특한 문양이 새겨져 있습니다. 군용 등급에 필적하는 부품 사양과 인상적인 Behring의 레이저 캐논 4문을 장착하였으며, 공중전에 통달한 이 사나운 전투기는 당신을 공중전에서 남들이 닿을 수 없는 수준으로 이끌어 줍니다.
+https://media.robertsspaceindustries.com/6ewzke6o3llh6/store_slideshow_large.jpg
+https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
+앤빌 에어로스페이스 (Anvil Aerospace)
+전투
+비행가능
+25.5m/24m/6.5m
+78,466Kg
+0SCU
+1,222m/s
+1명
+2명
+-
+-
+https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-M-Super-Hornet-Heartseeker#buying-options
+$195
+
+
+##F7C-R 호넷 트래커
+F7C-R 호넷 트래커 (F7C-R Hornet Tracker)
+F7C-R 호넷 고스트가 스텔스 기능을 중점으로 제작되었다면, 반대로 F7C-R 호넷 트래커는 탐색을 위해 만들어졌습니다. F7C-R 호넷 트래커는 고급 레이더 장비를 갖추고 있어서 정교한 탐색을 위한 탐험가에게 어울리는 함선입니다. 소규모 지역의 민병대나 대형 용병들은 F7C-R 호넷 트래커를 C&C 함선으로써 이용합니다.
+https://starcitizen.tools/images/thumb/6/6b/F7C-R_Tracker_flying_over_mountains.jpg/450px-F7C-R_Tracker_flying_over_mountains.jpg
+https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
+앤빌 에어로스페이스 (Anvil Aerospace)
+전투
+비행가능
+22.5m/21.5m/6.5m
+73,497Kg
+0SCU
+1,214m/s
+1명
+1명
+1,832,100⍺UEC
+에어리어18
+https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-R-Hornet-Tracker#buying-options
+$140
+
+
+##F7C-S 호넷 고스트
+F7C-S 호넷 고스트 (F7C-S Hornet Ghost)
+스텔스 기능이 있는 에너지 저방출 드라이브, 무기와 공간 장갑 기술을 지닌 F7C-S 호넷 고스트는 말 그대로 유령이 되고 싶은 파일럿에게 적합합니다. F7C-S 호넷 고스트와 함께라면 당신의 목표를 방해하는 자가 최고의 옵저버일지라도 상관 없습니다. 또한 걱정하지 마십시오. 저희는 그 목표가 무엇인지 당신에게 묻지 않습니다.
+https://starcitizen.tools/images/thumb/b/b4/F7C-S_Hornet_Ghost_in_debris_field_-_Front_Port.png/450px-F7C-S_Hornet_Ghost_in_debris_field_-_Front_Port.png
+https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
+앤빌 에어로스페이스 (Anvil Aerospace)
+전투
+비행가능
+25.5m/21.5m/6.5m
+73.454kg
+0SCU
+1,224m/s
+1명
+1명
+1,654,100⍺UEC
+에어리어18
+https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-S-Hornet-Ghost#buying-options
+$125
+
+
+##F8A 라이트닝
+F8A 라이트닝 (F8C Lightning)
+F8A 라이트닝은 UEE 해군에서 사용되는 헤비급 전투기입니다. 차세대 초우주 제공 우위 전투기로, 특히 반둘과의 전투를 고려하여 설계되었습니다. 전작인 F7보다 민첩하며 중무장된 전투기입니다. 보조 터렛은 추가적인 고정 무장을 위하여 제거되었습니다.
+https://starcitizen.tools/images/thumb/2/21/Invictus-2950-naval-fleet-f8-01.jpg/450px-Invictus-2950-naval-fleet-f8-01.jpg
+https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
+앤빌 에어로스페이스 (Anvil Aerospace)
+전투
+컨셉단계
+26m/24m/8m
+55,339kg
+0SCU
+760m/s
+1명
+1명
+-
+-
+-
+-
+
+
+##F8C 라이트닝
+F8C 라이트닝 (F8C Lightning)
+F8C 라이트닝은 전작인 F7보다 민첩한 F8A 라이트닝의 민수용 버전입니다.
+https://starcitizen.tools/images/thumb/1/13/F8-C_-_Front.png/450px-F8-C_-_Front.png
+https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
+앤빌 에어로스페이스 (Anvil Aerospace)
+전투
+컨셉단계
+26m/24m/8m
+55,339kg
+0SCU
+760m/s
+1명
+1명
+-
+-
+-
+-
 
 
 ##글래디에이터
 글래디에이터 (Gladiator)
-앤빌 글래디에이터는 전투기와 폭격기 사이의 간극을 메우기 위해 개발되었습니다. 다재다능한 모듈식 구성을 통해 글래디에이터는 공격 및 수비에서부터 치안 및 전술 항공 정찰에 이르기까지 다양한 임무를 수행 할 수 있습니다. 비행 중에 역할을 변경할 수 있으며 동시에 여러 역할을 수행 할 수도 있습니다.
+글래디에이터는 전투기와 폭격기 사이의 간극을 메우기 위해 개발되었습니다. 다재다능한 모듈식 구성을 통해 글래디에이터는 공격 및 수비에서부터 치안 및 전술 항공 정찰에 이르기까지 다양한 임무를 수행할 수 있습니다. 또한 비행 중에 역할을 변경할 수도 있으며, 동시에 여러 가지의 역할을 수행할 수도 있습니다.
 https://starcitizen.tools/images/thumb/8/87/Gladiator_Promo_01_thumb.jpg/450px-Gladiator_Promo_01_thumb.jpg
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
 폭격
 비행가능
-22m/22m/6m
+22.5m/22.5m/6m
 87,497Kg
--
-980m/s
+0SCU
+981m/s
 1명
 2명
 1,954,500⍺UEC
 에어리어18
-공식홈페이지 판매 링크"
+https://robertsspaceindustries.com/pledge/ships/anvil-gladiator/Gladiator#buying-options
 $165
 
 
 ##호크
 호크 (Hawk)
-소형화와 무장에 중점을 둔 경량 전투기인 호크는 살생용과 비살생용 무기를 인상적으로 탑재한 함선입니다. 무소속 바운티 헌터 또는 지역 보안군을 위한 완벽한 함선으로써 제조되었습니다.
+소형화와 무장에 중점을 둔 경량 전투기인 호크는 살상용과 비살상용 무기를 특징적으로 탑재한 함선입니다. 무소속 바운티 헌터 또는 지역 보안군을 위한 완벽한 함선으로 제조되었습니다.
 https://starcitizen.tools/images/thumb/6/6a/Star_Citizen-_Low_Flying_Hawk.png/450px-Star_Citizen-_Low_Flying_Hawk.png
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
 전투
 비행가능
-17m/22m/6m
+13m/13m/4m
 40,000Kg
--
+0SCU
 1,235m/s
 1명
-명
+1명
 1,284,400⍺UEC
 에어리어18
-공식홈페이지 판매 링크"
-$90
+https://robertsspaceindustries.com/pledge/ships/hawk/Hawk#buying-options
+$100
 
 
 ##허리케인
 허리케인 (Hurricane)
-허리케인은 슬림한 동체와 치명적인 공격력으로 무장된 전투기입니다. 허리케인은 부족한 방어력을 강력한 무장으로 보완합니다. 6개의 기총으로 모든 것을 파괴할 수 있습니다. 허리케인의 파일럿은 적의 방어막을 무력화하는 것에 실패하지 않습니다.
+허리케인은 슬림한 동체와 치명적인 공격력으로 무장된 전투기입니다. 허리케인은 부족한 방어력을 강력한 무장으로 보완합니다. 6개의 기총으로 보이는 모든 것을 파괴할 수 있습니다. 허리케인은 적의 방어막을 무력화 시키는 것을 절대 실패하지 않습니다.
 https://starcitizen.tools/images/thumb/8/80/Hurricane_3.2_flyable_sale_Action_02-Squashed.jpg/450px-Hurricane_3.2_flyable_sale_Action_02-Squashed.jpg
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
 전투
 비행가능
-22m/14m/6m
-86,454Kg
--
+22m/14.5m/6m
+148,028kg
+0SCU
 1,125m/s
 1명
 2명
 1,218,300⍺UEC
 에어리어18
-공식홈페이지 판매 링크"
-$175
-
+https://robertsspaceindustries.com/pledge/ships/hurricane/Hurricane#buying-options
+$195
 
 
 ##테라핀
 테라핀 (Terrapin)
-테라핀은 무장된 심우주 정찰선으로써, UEE 해군에서 이용된 함선입니다. 민감한 장거리 스캐너가 장착되어 있으며 장기 정찰 임무에 적합한 함선입니다. 테라핀은 중장갑과 대형 쉴드 생성기를 통해 극한의 환경과 전투에서 살아남을 수 있습니다.
+테라핀은 무장된 심우주 정찰선으로써, UEE 해군에서 이용된 함선입니다. 섬세한 장거리 스캐너가 장착되어 있으며 장기 정찰 임무에 적합한 함선입니다. 테라핀은 중장갑과 대형 쉴드 생성기를 통해 극한의 환경과 전투에서 살아남을 수 있습니다.
 https://starcitizen.tools/images/thumb/5/52/Terrapin_-_x2_in_formation_over_worlds_-_Front_Port.jpg/450px-Terrapin_-_x2_in_formation_over_worlds_-_Front_Port.jpg
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
 탐사
 비행가능
 19.5m/14.5m/6m
-86,454Kg
--
-900m/s
+166,850kg
+0SCU
+1,204m/s
 1명
 2명
 2,568,100⍺UEC
 에어리어18
-공식홈페이지 판매 링크"
+https://robertsspaceindustries.com/pledge/ships/terrapin/Terrapin#buying-options
 220$
 
 
 ##발키리
 발키리 (Valkyrie)
-발키리는 중규모의 병력 수송 함선입니다. 발키리는 전투 지역에 지상 차량과 함께 최대 20명의 무장된 병사를 강습할 수 있도록 설계되었습니다. 다수의 터렛과 사이드 건으로 무장한 발키리는 배치된 병력에게 든든한 엄호를 제공하여 안전한 착륙 지점을 확보할 수 있습니다.
+발키리는 중규모의 병력 수송선입니다. 발키리는 최대 20명의 무장된 병사를 지상 차량과 함께 지상으로 강습할 수 있도록 설계되었습니다. 다수의 터렛과 사이드 건으로 무장한 발키리는 지상에 배치된 병력에게 강력한 엄호를 제공함으로써 강습 지점을 안전하게 확보할 수 있는 능력을 갖추고 있습니다.
 https://starcitizen.tools/images/thumb/0/07/Valkyrie_flying_through_debris_shooting_back_at_ships_-_cut.jpg/450px-Valkyrie_flying_through_debris_shooting_back_at_ships_-_cut.jpg
 https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
 앤빌 에어로스페이스 (Anvil Aerospace)
 수송
 비행가능
 38m/28m/9.5m
-87,497Kg
+621,046kg
 30SCU
 1,100m/s
 1명
 5명
 4,454,400⍺UEC
 에어리어18
-공식홈페이지 판매 링크"
+https://robertsspaceindustries.com/pledge/ships/anvil-valkyrie/Valkyrie#buying-options
 $375
 
 
-##샘플
-함선명
-함선설명
-함선이미지
-https://cafeptthumb-phinf.pstatic.net/20131201_38/avenger14_1385876545466GOSM8_PNG/logo.png?type=w740
-앤빌 에어로스페이스 (Anvil Aerospace)
-분류
-비행가능
-22m/22m/6m
-87,497Kg
--카고
-980m/s
-1명
-2명
-1,954,500⍺UEC
-에어리어18
-공식홈페이지 판매 링크"
-$165
+
+
